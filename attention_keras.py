@@ -7,7 +7,7 @@ import keras.backend as K
 
 
 print("nihao")
-print("123456")
+print("123456789")
 
 def to_mask(x, mask, mode='mul'):
     """通用mask函数
