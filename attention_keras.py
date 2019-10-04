@@ -11,8 +11,9 @@ print("nihao2")
 
 print("123456abc456789abc")
 
-print("123456a")
+print("123456a111111111")
 
+print("654321")
 
 def to_mask(x, mask, mode='mul'):
     """通用mask函数
