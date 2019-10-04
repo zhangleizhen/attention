@@ -11,7 +11,14 @@ print("nihao2")
 
 print("123456abc456789abc")
 
+
 print("123456a111111111")
+
+print("123456abcdef")
+
+
+print("abcdefg")
+
 
 print("654321")
 
