@@ -11,7 +11,7 @@ print("nihao")
 
 print("123456abc456789abc")
 
-
+print("123456a")
 
 
 def to_mask(x, mask, mode='mul'):
