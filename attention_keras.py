@@ -11,6 +11,7 @@ print("nihao")
 print("123456abc456789")
 
 
+
 def to_mask(x, mask, mode='mul'):
     """通用mask函数
     这里的mask.shape=[batch_size, seq_len]或[batch_size, seq_len, 1]
