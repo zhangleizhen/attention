@@ -11,7 +11,10 @@ print("nihao2")
 
 print("123456abc456789abc")
 
-print("123456a")
+print("123456abcdef")
+
+
+print("abcdefg")
 
 
 def to_mask(x, mask, mode='mul'):
